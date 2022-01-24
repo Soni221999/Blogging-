@@ -1,0 +1,14 @@
+/* li{
+  display: inline;
+} */
+
+.line
+{
+    display: inline;
+}
+
+.css
+{
+    border: 2px solid;
+    min-width:fit-content;
+}

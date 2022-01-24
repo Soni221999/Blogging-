@@ -1,0 +1,49 @@
+.Inimg{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient( rgba(247, 241, 241, 0.5) 0%,rgba(247, 242, 242, 0.5) 100%), url(https://image.shutterstock.com/image-photo/bloggingblog-concepts-ideas-computer-laptop-260nw-1255851382.jpg);
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, Helvetica;
+    letter-spacing: 0.02em;
+     font-weight: 400;
+   }
+   
+   .Intransparent-card{
+     position: fixed;
+     width: 300px;
+     height: 100px;
+     top: 100px;
+     left: 100px;
+     top: calc(45% - 175px);
+     left: calc(50% - 125px);
+     bottom: calc(45%  125px);
+     height: calc(90% - 125px);
+     overflow: hidden;
+     opacity: 0.8;
+   }
+   .Inuser-login-box{
+     position: relative;
+     margin-top: 30px;
+     text-align: center;
+  
+   }
+   .Inuser-login-box > *{
+     display: inline-block;
+     width: 250px;
+   }
+   .Inuser-name{
+     font-family:  Arial, Helvetica;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     color: rgb(14, 14, 15);
+   }
+   
+   h4{
+     /* color: rgb(32, 173, 131); */
+     font-family:  serif;
+     font-size: 20px;
+   }
+  
